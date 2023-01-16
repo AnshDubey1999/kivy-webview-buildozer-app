@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+cython = "*"
+pytest = "*"
+black = "*"
+twine = "*"
+mypy = ">=0.800"
+pytest-mypy = "*"
+sphinx = "*"
+sphinx-rtd-theme = "*"
+m2r2 = "*"
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true

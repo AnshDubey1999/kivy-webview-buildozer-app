@@ -1,0 +1,10 @@
+yarn.lock
+*.tgz
+hfst-optimized-lookup.cc
+hfst-optimized-lookup.h
+/build/
+/node_modules/
+
+# auto-generated:
+index.js
+*.d.ts
