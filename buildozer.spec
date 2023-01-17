@@ -13,7 +13,7 @@ package.domain = org.mobidict
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,jpeg,kv,atlas,tsv,hfstol,ttf,sqlite3,json
+source.include_exts = py,png,jpg,jpeg,kv,atlas,tsv,hfstol,ttf,sqlite3,json,ico,html,txt,map,js,css,svg
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*,api/*,core/*,layouts/*
